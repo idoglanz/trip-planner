@@ -1,2 +1,3 @@
 ./data/trips/*
 ./data/price_lists/*.gzip
+/data/price_lists/*.gzip

@@ -1,5 +1,6 @@
 # A Simple Camping Trip Planning app
-<img src="./data/assets/tripping_logo_1.png"  width="60%" height="30%">
+
+<img src="./data/assets/tripping_logo_1.png"  width="60%" >
 
 ## Disclaimer
 - This is a work in progress
